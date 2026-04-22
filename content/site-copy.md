@@ -14,7 +14,7 @@ Rack & Roster          About   How I Work   Notes from the Floor
 
 ### Hero
 
-**Fractional Sales Ops for traditional strength gym owners.**
+**Outside Sales Manager for traditional strength gym owners.**
 
 Two calls a month. A decade of running the floor at Manhattan strength gyms, turned into the oversight layer your CRM won't give you.
 
@@ -24,11 +24,11 @@ Two calls a month. A decade of running the floor at Manhattan strength gyms, tur
 
 I'm Stephen Hines. I run Rack & Roster.
 
-*Fractional Sales Ops for traditional strength gyms.*
+*Outside Sales Manager for traditional strength gyms.*
 
 I work with a small number of owners on a monthly rhythm. A mid-month check-in and an end-of-month close-out. Numbers sent ahead of every call, a written summary after. I look at your leads, your sales, your membership roster. I tell you what I see. You decide what to do about it.
 
-$1,000 a month. Month to month. Cancel anytime. I'm opening a few client spots this year.
+$1,000 a month. Three-month engagement. At the end, we decide together whether to continue. I'm opening a few client spots this year.
 
 [ See how I work → ]
 
@@ -61,7 +61,7 @@ stephen@rackandroster.com
 
 **Stephen Hines**
 
-*Fractional Sales Ops for traditional strength gyms.*
+*Outside Sales Manager for traditional strength gyms.*
 
 I've spent the last decade running the sales floor at some of Manhattan's most iconic strength gyms. The ones lifters fly in to train at. The ones that have been open longer than most of their members have been alive.
 
@@ -87,7 +87,7 @@ If you run a traditional strength gym and any of this resonates, I'd like to hea
 
 **How I Work**
 
-Fractional Sales Ops. One service. One price. Clean boundaries.
+Outside Sales Manager. One service. One price. Clean boundaries.
 
 I work with traditional strength gym owners on a monthly rhythm. The work breaks into four parts. Every engagement moves through them in roughly this order, and then cycles back as the business changes.
 
@@ -133,7 +133,7 @@ What you get is a peer who's still on the floor, watching your numbers every mon
 
 ### The Offer
 
-$1,000 a month. Flat. Month to month. Cancel anytime.
+$1,000 a month. Three-month engagement. At the end, we decide together whether to continue.
 
 I'm opening a few client spots this year.
 
