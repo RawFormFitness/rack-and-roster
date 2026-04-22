@@ -1,0 +1,47 @@
+---
+import Base from '../../layouts/Base.astro';
+import NoteCard from '../../components/NoteCard.astro';
+import { getCollection } from 'astro:content';
+
+const all = (await getCollection('notes')).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+);
+const pinned = all.filter((n) => n.data.pinned);
+const unpinned = all.filter((n) => !n.data.pinned);
+---
+
+<Base title="Notes from the Floor · Rack & Roster">
+  <section class="mx-auto max-w-3xl px-6 py-12 sm:py-16">
+    <h1 class="text-4xl sm:text-5xl font-semibold tracking-tight">Notes from the Floor</h1>
+    <p class="mt-3 italic text-neutral-600">Writing from Stephen Hines on running traditional strength gyms.</p>
+
+    {pinned.length > 0 && (
+      <div class="mt-10">
+        <p class="italic text-sm text-neutral-500">Start here</p>
+        <div class="mt-3">
+          {pinned.map((note) => (
+            <NoteCard
+              title={note.data.title}
+              summary={note.data.summary}
+              date={note.data.date}
+              slug={note.id}
+            />
+          ))}
+        </div>
+      </div>
+    )}
+
+    {unpinned.length > 0 && (
+      <div class={pinned.length > 0 ? 'mt-10' : 'mt-8'}>
+        {unpinned.map((note) => (
+          <NoteCard
+            title={note.data.title}
+            summary={note.data.summary}
+            date={note.data.date}
+            slug={note.id}
+          />
+        ))}
+      </div>
+    )}
+  </section>
+</Base>

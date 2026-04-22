@@ -14,7 +14,7 @@ Rack & Roster          About   How I Work   Notes from the Floor
 
 ### Hero
 
-**Sales and analytics for traditional strength gym owners.**
+**Fractional Sales Ops for traditional strength gym owners.**
 
 Two calls a month. A decade of running the floor at Manhattan strength gyms, turned into the oversight layer your CRM won't give you.
 
@@ -24,7 +24,9 @@ Two calls a month. A decade of running the floor at Manhattan strength gyms, tur
 
 I'm Stephen Hines. I run Rack & Roster.
 
-I work with a small number of traditional strength gym owners on a monthly rhythm. Numbers sent ahead of every call, a written summary after. I look at your leads, your sales, your membership roster. I tell you what I see. You decide what to do about it.
+*Fractional Sales Ops for traditional strength gyms.*
+
+I work with a small number of owners on a monthly rhythm. A mid-month check-in and an end-of-month close-out. Numbers sent ahead of every call, a written summary after. I look at your leads, your sales, your membership roster. I tell you what I see. You decide what to do about it.
 
 $1,000 a month. Month to month. Cancel anytime. I'm opening a few client spots this year.
 
@@ -59,6 +61,8 @@ stephen@rackandroster.com
 
 **Stephen Hines**
 
+*Fractional Sales Ops for traditional strength gyms.*
+
 I've spent the last decade running the sales floor at some of Manhattan's most iconic strength gyms. The ones lifters fly in to train at. The ones that have been open longer than most of their members have been alive.
 
 Before the gym work, I spent seven years in Boston residential real estate. I started at Berkshire Hathaway HomeServices, co-founded a firm called Lantern Residential, and then ran operations consulting for a handful of Keller Williams teams in Manhattan. Different industry, same skill: helping people buy a version of themselves they want to become, and making sure the business behind it can actually run.
@@ -83,7 +87,7 @@ If you run a traditional strength gym and any of this resonates, I'd like to hea
 
 **How I Work**
 
-One service. One price. Clean boundaries.
+Fractional Sales Ops. One service. One price. Clean boundaries.
 
 I work with traditional strength gym owners on a monthly rhythm. The work breaks into four parts. Every engagement moves through them in roughly this order, and then cycles back as the business changes.
 
@@ -103,7 +107,7 @@ When the data is broken at the source, I tell you how to fix it. Source bucket l
 
 **Coach**
 
-Two calls a month. Numbers sent ahead. We walk through what's working, what isn't, and what to do about it. After every call, a written summary with 3 to 5 action items, owners, and deadlines. Between calls, you can email me anytime. I respond within one business day.
+Two calls a month, on a deliberate rhythm. Mid-month to check how we're tracking and make any in-month adjustments. End of month close-out to walk through what just happened and plan the next one. Numbers sent ahead of every call. After every call, a written summary with 3 to 5 action items, owners, and deadlines. Between calls, you can email me anytime. I respond within one business day.
 
 ### The Reports I Need to Start
 
@@ -115,11 +119,15 @@ Before we work together, I ask for three exports from your POS or CRM.
 
 **Membership Roster Snapshot.** Current active roster plus members cancelled in the last twelve months, with join date, membership type, and cancel date where applicable.
 
-If your system exports these cleanly, we can work together. If it can't, we figure out what's possible before anyone signs anything.
+Don't worry about the format. Most gym databases are messy. I parsed a Manhattan strength gym from scratch in two days. Whatever your system spits out, I'll work with it, clean it up, and build the analysis around what's actually there. The parsing work is part of the service.
 
 ### What's Not in This
 
-I don't run your ads or manage your CRM day-to-day. I don't write your sales scripts. I don't train your staff. I don't build custom dashboards. I don't do competitor research, though I'll help you act on what you find. If you need those things, you need a different kind of service.
+A few things I want to be upfront about, because it saves us both time.
+
+I don't run your ads or manage your CRM day-to-day. I don't write your sales scripts. I don't train your floor staff. I don't build software for you.
+
+I work with one point of contact at the gym. Usually that's the owner, but it can be a GM, Director of Sales, or whoever you designate to handle this work day-to-day. One person on the calls, one person on the email thread, one person accountable for acting on what we decide.
 
 What you get is a peer who's still on the floor, watching your numbers every month, telling you what the data actually says, and helping you decide what to do about it.
 

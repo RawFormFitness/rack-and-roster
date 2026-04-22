@@ -1,0 +1,23 @@
+---
+interface Props {
+  title: string;
+  summary: string;
+  date: Date;
+  slug: string;
+}
+
+const { title, summary, date, slug } = Astro.props;
+
+const dateLabel = new Intl.DateTimeFormat('en-US', {
+  month: 'long',
+  year: 'numeric',
+}).format(date);
+---
+
+<article class="border-b border-neutral-200/70 py-6 first:pt-0 last:border-b-0">
+  <a href={`/notes/${slug}`} class="group block">
+    <h3 class="text-2xl leading-snug font-semibold group-hover:text-neutral-600">{title}</h3>
+    <p class="mt-2 leading-relaxed text-neutral-800">{summary}</p>
+    <p class="mt-2 italic text-sm text-neutral-500">{slug === 'manifesto' ? 'Posted at inception' : `Posted ${dateLabel}`}</p>
+  </a>
+</article>

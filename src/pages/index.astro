@@ -1,17 +1,57 @@
 ---
+import Base from '../layouts/Base.astro';
+import NoteCard from '../components/NoteCard.astro';
+import { getCollection } from 'astro:content';
 
+const all = (await getCollection('notes')).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+);
+const pinned = all.filter((n) => n.data.pinned);
+const unpinned = all.filter((n) => !n.data.pinned);
+const recent = [...pinned, ...unpinned.slice(0, 3)];
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<Base title="Rack & Roster">
+  <section class="mx-auto max-w-3xl px-6 pt-16 pb-10 sm:pt-24">
+    <h1 class="text-5xl sm:text-6xl leading-[1.05] font-semibold tracking-tight">
+      Fractional Sales Ops for traditional strength gym owners.
+    </h1>
+    <p class="mt-6 text-xl leading-relaxed text-neutral-800">
+      Two calls a month. A decade of running the floor at Manhattan strength gyms, turned into the oversight layer your CRM won't give you.
+    </p>
+    <p class="mt-8">
+      <a href="mailto:stephen@rackandroster.com" class="underline underline-offset-4 hover:text-neutral-600">[ Get in touch ]</a>
+    </p>
+  </section>
+
+  <section class="mx-auto max-w-3xl px-6 py-11 border-t border-neutral-200/70">
+    <p class="text-lg leading-relaxed">I'm Stephen Hines. I run Rack &amp; Roster.</p>
+    <p class="mt-2 italic text-neutral-600">Fractional Sales Ops for traditional strength gyms.</p>
+    <p class="mt-4 leading-relaxed text-neutral-800">
+      I work with a small number of owners on a monthly rhythm. A mid-month check-in and an end-of-month close-out. Numbers sent ahead of every call, a written summary after. I look at your leads, your sales, your membership roster. I tell you what I see. You decide what to do about it.
+    </p>
+    <p class="mt-4 leading-relaxed text-neutral-800">
+      $1,000 a month. Month to month. Cancel anytime. I'm opening a few client spots this year.
+    </p>
+    <p class="mt-6">
+      <a href="/how-i-work" class="underline underline-offset-4 hover:text-neutral-600">[ See how I work &rarr; ]</a>
+    </p>
+  </section>
+
+  <section class="mx-auto max-w-3xl px-6 py-11 border-t border-neutral-200/70">
+    <h2 class="text-2xl font-semibold">Notes from the Floor</h2>
+    <div class="mt-6">
+      {recent.map((note) => (
+        <NoteCard
+          title={note.data.title}
+          summary={note.data.summary}
+          date={note.data.date}
+          slug={note.id}
+        />
+      ))}
+    </div>
+    <p class="mt-6">
+      <a href="/notes" class="underline underline-offset-4 hover:text-neutral-600">See all notes &rarr;</a>
+    </p>
+  </section>
+</Base>

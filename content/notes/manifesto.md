@@ -1,3 +1,10 @@
+---
+title: The Rack & Roster Manifesto
+summary: A letter to traditional strength gym owners. What these gyms are, what's happening to them, and why data is the thing that keeps the culture alive.
+date: 2026-04-01
+pinned: true
+---
+
 # The Rack & Roster Manifesto
 
 A letter to traditional strength gym owners.
