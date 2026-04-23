@@ -16,7 +16,7 @@ Rack & Roster          About   How I Work   Notes from the Floor
 
 **Outside Sales Manager for traditional strength gym owners.**
 
-Two calls a month. A decade of running the floor at Manhattan strength gyms, turned into the oversight layer your CRM won't give you.
+Two calls a month. Twelve years in sales operations, five of them running the floor at Manhattan strength gyms, turned into the oversight layer your CRM won't give you.
 
 [ Get in touch ]
 
@@ -63,7 +63,7 @@ stephen@rackandroster.com
 
 *Outside Sales Manager for traditional strength gyms.*
 
-I've spent the last decade running the sales floor at some of Manhattan's most iconic strength gyms. The ones lifters fly in to train at. The ones that have been open longer than most of their members have been alive.
+I've spent the last five years running the sales floor at some of Manhattan's most iconic strength gyms. The ones lifters fly in to train at. The ones that have been open longer than most of their members have been alive.
 
 Before the gym work, I spent seven years in Boston residential real estate. I started at Berkshire Hathaway HomeServices, co-founded a firm called Lantern Residential, and then ran operations consulting for a handful of Keller Williams teams in Manhattan. Different industry, same skill: helping people buy a version of themselves they want to become, and making sure the business behind it can actually run.
 
@@ -73,7 +73,7 @@ I started building my own reporting infrastructure because the tools I was given
 
 At some point I realized that every traditional strength gym in America has the same problem, and almost nobody working in this segment has the operator background and the analytical rigor to solve it at the same time. That's what Rack & Roster is.
 
-I'm still in the room. I run a sales floor every week. The writing on this site, the framework I work from, the methodology I sell, all of it comes from current reps, not from a decade-old consulting résumé.
+I'm still in the room. I run a sales floor every week. The writing on this site, the framework I work from, the methodology I sell, all of it comes from current reps, not from an old consulting résumé.
 
 If you run a traditional strength gym and any of this resonates, I'd like to hear from you.
 
