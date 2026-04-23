@@ -14,33 +14,15 @@ const recent = [...pinned, ...unpinned.slice(0, 3)];
 <Base title="Rack & Roster">
   <section class="mx-auto max-w-3xl px-6 pt-16 pb-10 sm:pt-24">
     <h1 class="text-5xl sm:text-6xl leading-[1.05] font-semibold tracking-tight">
-      Outside Sales Manager for traditional strength gym owners.
+      Notes from the floor.
     </h1>
     <p class="mt-6 text-xl leading-relaxed text-neutral-800">
-      Two calls a month. A written report before each one. A decade of running the floor at Manhattan strength gyms, turned into the oversight layer your CRM won't give you.
-    </p>
-    <p class="mt-8">
-      <a href="mailto:stephen@rackandroster.com" class="underline underline-offset-4 hover:text-neutral-600">[ Book a free data audit &rarr; ]</a>
+      Field notes from a decade inside Manhattan strength gyms.
     </p>
   </section>
 
   <section class="mx-auto max-w-3xl px-6 py-11 border-t border-neutral-200/70">
-    <p class="text-lg leading-relaxed">I'm Stephen Hines. I run Rack &amp; Roster.</p>
-    <p class="mt-2 italic text-neutral-600">Outside Sales Manager for traditional strength gyms.</p>
-    <p class="mt-4 leading-relaxed text-neutral-800">
-      I work with a small number of owners on a monthly rhythm. A mid-month check-in and an end-of-month close-out, with a written report before each call. I look at your leads, your sales, your membership roster. I tell you what I see. You decide what to do about it.
-    </p>
-    <p class="mt-4 leading-relaxed text-neutral-800">
-      $1,000 a month, month-to-month. I work with a maximum of three gyms at a time.
-    </p>
-    <p class="mt-6">
-      <a href="/how-i-work" class="underline underline-offset-4 hover:text-neutral-600">[ See how I work &rarr; ]</a>
-    </p>
-  </section>
-
-  <section class="mx-auto max-w-3xl px-6 py-11 border-t border-neutral-200/70">
-    <h2 class="text-2xl font-semibold">Notes from the Floor</h2>
-    <div class="mt-6">
+    <div>
       {recent.map((note) => (
         <NoteCard
           title={note.data.title}
