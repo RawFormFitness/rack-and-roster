@@ -1,6 +1,6 @@
 ---
 title: The Death of the Free Trial
-summary: The free trial used to solve information and commitment problems that prospects no longer have. Today it mostly attracts trial-hoppers, tourists, and shoppers — the lowest-converting, fastest-churning population in the pipeline. The tool stayed the same while the market around it shifted.
+summary: The free trial used to solve information and commitment problems that prospects no longer have. Today it mostly attracts trial-hoppers, tourists, and shoppers, the lowest-converting and fastest-churning population in the pipeline. The tool stayed the same while the market around it shifted.
 date: 2026-03-18
 tags: [leads-sales]
 ---
