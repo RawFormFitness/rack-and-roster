@@ -3,6 +3,7 @@ title: 'Most of What Operators Call "Testing" Is Actually Just Reacting'
 summary: Most gym "tests" have no pre-committed window or success metric, so decisions get made against whatever the numbers happened to do in whatever window someone checked. Pre-commit both before launch or you're reacting, not testing.
 date: 2026-01-21
 tags: [data-reporting]
+pullQuote: Most of what operators call testing is reacting, and most of what they call learning is just building a story around noise.
 ---
 
 # Most of What Operators Call "Testing" Is Actually Just Reacting

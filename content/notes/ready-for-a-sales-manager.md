@@ -3,6 +3,7 @@ title: When a Gym Is Ready for a Sales Manager, and When It Isn't
 summary: Most independent gyms live in the zone where they need dedicated sales management but can't yet justify a full-time hire. Waiting to cross that threshold is how gyms stay stuck in sales chaos longer than they should.
 date: 2026-02-04
 tags: [team, leads-sales]
+pullQuote: Waiting until you can afford a full-time sales manager is how most independent gyms end up stuck. The sales function needed a dedicated owner long before the budget did.
 ---
 
 # When a Gym Is Ready for a Sales Manager, and When It Isn't

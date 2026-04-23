@@ -3,6 +3,7 @@ title: A Cancellation Is a Diagnostic, Not a Save Attempt
 summary: Reps who treat cancellations as save attempts lose both the member and the information. Run the conversation as a diagnostic instead, and the cohort-level patterns that actually drive churn become visible.
 date: 2026-03-11
 tags: [retention, team]
+pullQuote: A cancellation conversation is a diagnostic, not a save attempt. Reps who treat it like a save attempt lose both the member and the information.
 ---
 
 # A Cancellation Is a Diagnostic, Not a Save Attempt

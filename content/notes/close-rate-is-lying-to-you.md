@@ -3,6 +3,7 @@ title: Your Close Rate Is Lying to You
 summary: The close rate number every gym quotes quietly folds in an early churn problem. A close-to-retained view usually reranks which lead channels are actually worth keeping.
 date: 2026-01-07
 tags: [leads-sales, data-reporting]
+pullQuote: A channel with a lower close rate and better retention is worth more than a channel with a higher close rate and worse retention, almost every time.
 ---
 
 # Your Close Rate Is Lying to You

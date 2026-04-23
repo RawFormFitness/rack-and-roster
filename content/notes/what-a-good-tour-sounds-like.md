@@ -3,6 +3,7 @@ title: What a Good Tour Sounds Like, If You're Listening
 summary: Owners who stop sitting in on tours lose a clear sense of what a good one sounds like, and they end up evaluating tours by whether they closed. The signal worth listening for is the rep asking more than telling, starting before the prospect walks in.
 date: 2026-03-04
 tags: [leads-sales, team]
+pullQuote: The best tours don't sell the gym. They sell the prospect back to themselves.
 ---
 
 # What a Good Tour Sounds Like, If You're Listening
