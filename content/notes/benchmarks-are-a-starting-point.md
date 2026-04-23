@@ -2,6 +2,7 @@
 title: Industry Benchmarks Are a Starting Point, Not a Verdict
 summary: Dismissing industry benchmarks as "not applicable to us" is usually a defensive move disguised as an analytical one. Benchmarks aren't a grade. They're the thing that tells you where to look next.
 date: 2026-02-11
+tags: [data-reporting]
 ---
 
 # Industry Benchmarks Are a Starting Point, Not a Verdict

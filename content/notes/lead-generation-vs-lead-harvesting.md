@@ -2,6 +2,7 @@
 title: Lead Generation and Lead Harvesting Aren't the Same Promo
 summary: Judging every promo by joins-in-the-month over-rewards discounts and under-rewards trials. Tag each promo as generation or harvesting, and evaluate it against the right window.
 date: 2026-01-14
+tags: [leads-sales, data-reporting]
 ---
 
 # Lead Generation and Lead Harvesting Aren't the Same Promo

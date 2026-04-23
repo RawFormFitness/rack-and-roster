@@ -2,6 +2,7 @@
 title: A Week Is Not a Reporting Window
 summary: A week is shorter than the noise cycle on almost every sales metric that matters. Running a gym on weekly reports isn't measuring performance, it's measuring randomness.
 date: 2026-02-18
+tags: [data-reporting]
 ---
 
 # A Week Is Not a Reporting Window

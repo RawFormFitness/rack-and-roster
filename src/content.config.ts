@@ -8,6 +8,7 @@ const notes = defineCollection({
     summary: z.string(),
     date: z.coerce.date(),
     pinned: z.boolean().default(false),
+    tags: z.array(z.string()).default([]),
   }),
 });
 

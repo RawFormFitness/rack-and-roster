@@ -2,6 +2,7 @@
 title: Your Delinquency Rate Is an Average. Averages Hide the Problem.
 summary: A single delinquency percentage hides the real pattern. Sliced by cohort, the failures are almost always concentrated in a specific promo or lead source, and no collections script fixes what acquisition created.
 date: 2026-02-25
+tags: [retention, leads-sales]
 ---
 
 # Your Delinquency Rate Is an Average. Averages Hide the Problem.

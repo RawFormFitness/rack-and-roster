@@ -2,6 +2,7 @@
 title: Your Reports Are Only as Good as Your Tags
 summary: Every sales number sits on top of a tagging layer. If the front desk owns the tags and management owns the reports, the disconnect guarantees drift, and every decision made from the reports is capped by the quality of the tags underneath.
 date: 2026-01-28
+tags: [data-reporting]
 ---
 
 # Your Reports Are Only as Good as Your Tags
