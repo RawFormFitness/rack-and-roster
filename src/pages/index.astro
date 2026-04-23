@@ -1,39 +1,38 @@
 ---
 import Base from '../layouts/Base.astro';
-import NoteCard from '../components/NoteCard.astro';
-import { getCollection } from 'astro:content';
-
-const all = (await getCollection('notes')).sort(
-  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
-);
-const pinned = all.filter((n) => n.data.pinned);
-const unpinned = all.filter((n) => !n.data.pinned);
-const recent = [...pinned, ...unpinned.slice(0, 3)];
 ---
 
-<Base title="Rack & Roster">
-  <section class="mx-auto max-w-3xl px-6 pt-16 pb-10 sm:pt-24">
-    <h1 class="text-5xl sm:text-6xl leading-[1.05] font-semibold tracking-tight">
-      Notes from the floor.
-    </h1>
-    <p class="mt-6 text-xl leading-relaxed text-neutral-800">
-      Field notes from a decade inside Manhattan strength gyms.
-    </p>
-  </section>
+<Base
+  title="Rack & Roster"
+  description="A letter to sales managers and floor operators at independent gyms."
+>
+  <article class="mx-auto max-w-2xl px-6 py-12 sm:py-16">
+    <p class="italic text-neutral-600">A letter to sales managers and floor operators.</p>
 
-  <section class="mx-auto max-w-3xl px-6 py-11 border-t border-neutral-200/70">
-    <div>
-      {recent.map((note) => (
-        <NoteCard
-          title={note.data.title}
-          summary={note.data.summary}
-          date={note.data.date}
-          slug={note.id}
-        />
-      ))}
+    <h1 class="mt-4 text-5xl sm:text-6xl font-semibold tracking-tight leading-[1.05]">
+      For the floor.
+    </h1>
+
+    <div class="mt-10 space-y-5 text-lg leading-relaxed text-neutral-800">
+      <p>If you run the sales floor at an independent gym, I wrote this for you.</p>
+
+      <p>I've spent a decade doing what you're doing. Tours on a Saturday morning. The promo you execute even when the math doesn't pencil. The CRM that lies. The members who tell you they're leaving, and the ones who just stop showing up. The 1st of the month.</p>
+
+      <p>Most of what's written about gym businesses is written by people who've never stood on a floor. Most of the tools built for this industry were built by people who can't tell a serious lead from a tire-kicker.</p>
+
+      <p>You can.</p>
+
+      <p>The notes here are from inside the work. Close rates that actually hold up. Promo analysis that separates lead volume from net impact. The stuff nobody is teaching you, because the people teaching you have never been on your side of the counter.</p>
+
+      <p>You're sharper than the tools you've been given.</p>
+
+      <p>Welcome.</p>
     </div>
-    <p class="mt-6">
-      <a href="/notes" class="underline underline-offset-4 hover:text-neutral-600">See all notes &rarr;</a>
+
+    <p class="mt-10 italic text-neutral-600">Stephen Hines</p>
+
+    <p class="mt-10">
+      <a href="/notes" class="underline underline-offset-4 hover:text-neutral-600">[ Read the notes &rarr; ]</a>
     </p>
-  </section>
+  </article>
 </Base>
