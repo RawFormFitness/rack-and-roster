@@ -1,0 +1,65 @@
+---
+import Base from '../layouts/Base.astro';
+---
+
+<Base
+  title="Sign up · Rack & Roster"
+  description="Get an email when I post a new note from the floor."
+>
+  <article class="mx-auto max-w-2xl px-6 py-12 sm:py-16">
+    <h1 class="text-4xl sm:text-5xl font-semibold tracking-tight">Get the notes by email.</h1>
+
+    <div class="mt-6 space-y-4 text-lg leading-relaxed text-neutral-800">
+      <p>
+        I post a new note most weeks. If you'd rather not check back, leave your email and I'll send each one when it drops.
+      </p>
+      <p>
+        No newsletter wrapper, no roundup, no pitch. One note per email, same writing that goes on the site.
+      </p>
+    </div>
+
+    <form
+      name="note-alerts"
+      method="POST"
+      data-netlify="true"
+      netlify-honeypot="bot-field"
+      action="/subscribe/thanks"
+      class="mt-10 space-y-5 font-sans"
+    >
+      <input type="hidden" name="form-name" value="note-alerts" />
+      <p class="hidden">
+        <label>Don't fill this out: <input name="bot-field" /></label>
+      </p>
+
+      <div>
+        <label for="name" class="block text-sm text-neutral-700">Name <span class="text-neutral-400">(optional)</span></label>
+        <input
+          id="name"
+          name="name"
+          type="text"
+          autocomplete="name"
+          class="mt-1 w-full border border-neutral-300 bg-white px-3 py-2 text-base text-[color:var(--color-ink)] focus:border-neutral-600 focus:outline-none"
+        />
+      </div>
+
+      <div>
+        <label for="email" class="block text-sm text-neutral-700">Email</label>
+        <input
+          id="email"
+          name="email"
+          type="email"
+          required
+          autocomplete="email"
+          class="mt-1 w-full border border-neutral-300 bg-white px-3 py-2 text-base text-[color:var(--color-ink)] focus:border-neutral-600 focus:outline-none"
+        />
+      </div>
+
+      <button
+        type="submit"
+        class="border border-[color:var(--color-ink)] px-5 py-2 text-sm text-[color:var(--color-ink)] hover:bg-[color:var(--color-ink)] hover:text-[color:var(--color-cream)] transition-colors"
+      >
+        Send me the notes
+      </button>
+    </form>
+  </article>
+</Base>
