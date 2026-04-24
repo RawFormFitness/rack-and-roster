@@ -1,12 +1,12 @@
 ---
-title: The GM and the Sales Manager Are Not the Same Job
+title: Why the Sales Function Quietly Degrades
 summary: A growing gym decides it's time to hire. The role gets posted as "General Manager" because that's the default title, and the candidate ends up doing a bit of everything. Eighteen months later the business hasn't moved and nobody can say why. The GM runs the floor. The sales manager runs the pipeline. The skills don't overlap much, and hiring the wrong one is more expensive than not hiring at all, because the owner now believes the problem is being solved when it isn't.
 date: 2026-04-08
 tags: [team, leads-sales]
 pullQuote: The cost of hiring the wrong one is higher than the cost of not hiring at all, because the owner now believes the problem is being solved when it isn't.
 ---
 
-# The GM and the Sales Manager Are Not the Same Job
+# Why the Sales Function Quietly Degrades
 
 An independent gym is growing and the owner decides it's time to bring in help. They post a job. The title is usually some variation of "General Manager," because that's what independent gyms call the role when they want someone to run the place. The candidate ends up doing a bit of everything. Scheduling, member issues, facility upkeep, some sales work, some reporting. Eighteen months later, the business hasn't moved much, and nobody's sure why.
 
