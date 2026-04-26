@@ -14,18 +14,18 @@ html {
 
 body {
   font-family: var(--font-serif);
-  font-size: 1.0625rem;
+  font-size: 1.125rem;
   line-height: 1.65;
 }
 
 .note-body {
-  font-size: 1.0625rem;
+  font-size: 1.125rem;
   line-height: 1.7;
 }
 
 .note-body h1 {
-  font-size: 3rem;
-  line-height: 1.05;
+  font-size: 2.25rem;
+  line-height: 1.1;
   font-weight: 600;
   letter-spacing: -0.015em;
   margin: 0 0 0.5rem;
@@ -119,6 +119,16 @@ body {
 }
 
 @media (min-width: 640px) {
+  body {
+    font-size: 1.1875rem;
+  }
+  .note-body {
+    font-size: 1.1875rem;
+  }
+  .note-body h1 {
+    font-size: 3rem;
+    line-height: 1.05;
+  }
   .note-body .pull-quote {
     margin: 3rem auto;
     padding: 2rem 0;
