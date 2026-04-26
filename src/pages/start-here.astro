@@ -1,0 +1,72 @@
+---
+import Base from '../layouts/Base.astro';
+
+const entries = [
+  {
+    slug: 'close-rate-is-lying-to-you',
+    title: 'Your Close Rate Is Lying to You',
+    blurb:
+      "The first piece in the library and the best foundation for everything else. Standard close rate hides an early-churn problem most operators have never measured, and the gap between the number on the dashboard and the real one usually changes how the pipeline gets read.",
+  },
+  {
+    slug: 'how-i-calculate-close-to-retained',
+    title: 'How I Calculate Close-to-Retained',
+    blurb:
+      "The methodology piece. Shows the math behind the argument in the first article. The formula is one line. The data hygiene that makes the formula trustworthy is most of the work.",
+  },
+  {
+    slug: 'what-a-good-tour-sounds-like',
+    title: "What a Good Tour Sounds Like, If You're Listening",
+    blurb:
+      "What separates a tour that closes from one that doesn't, written for owners and managers who want to know what to listen for when their reps are working a prospect. The signal is the questions, not the script.",
+  },
+  {
+    slug: 'the-comp-plan-is-louder-than-the-manager',
+    title: 'The Comp Plan Is Louder Than the Manager',
+    blurb:
+      "How you pay your reps determines what kind of sales floor you'll have. Most owners haven't thought about comp design as a strategic decision, and their reps are behaving exactly the way the plan tells them to.",
+  },
+  {
+    slug: 'gyms-culture-starts-before-the-first-tour',
+    title: "The Gym's Culture Starts Before the First Tour",
+    blurb:
+      "The sales manager's job isn't to close every lead. Sometimes the right move is letting a difficult prospect walk before they become a difficult member. What that decision actually looks like, and why it protects everything else.",
+  },
+];
+---
+
+<Base
+  title="Start Here · Rack & Roster"
+  description="Five notes to read first. The entry point to Rack & Roster."
+>
+  <article class="mx-auto max-w-2xl px-6 py-12 sm:py-16">
+    <h1 class="text-4xl sm:text-5xl font-semibold tracking-tight">Start Here</h1>
+
+    <div class="mt-8 space-y-5 leading-relaxed text-neutral-800">
+      <p>
+        Most of what passes for gym sales wisdom is built for a market that doesn't exist anymore. The reports point at the wrong things, the conventional advice was written for last decade's industry, and the operators still running yesterday's playbook are losing ground to ones who aren't.
+      </p>
+      <p>
+        These five notes are the entry point. Read in order if you want the full picture.
+      </p>
+    </div>
+
+    <ol class="mt-12 space-y-10">
+      {entries.map((entry, i) => (
+        <li class="flex gap-5">
+          <span class="font-sans text-sm text-neutral-400 pt-1 tabular-nums select-none">{String(i + 1).padStart(2, '0')}</span>
+          <div class="flex-1">
+            <h2 class="text-xl sm:text-2xl font-semibold tracking-tight">
+              <a href={`/notes/${entry.slug}`} class="underline-offset-4 hover:underline">{entry.title}</a>
+            </h2>
+            <p class="mt-3 leading-relaxed text-neutral-700">{entry.blurb}</p>
+          </div>
+        </li>
+      ))}
+    </ol>
+
+    <p class="mt-16">
+      <a href="/notes" class="underline underline-offset-4 hover:text-neutral-600">[ Browse all notes &rarr; ]</a>
+    </p>
+  </article>
+</Base>
