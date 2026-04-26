@@ -1,6 +1,6 @@
 ---
 title: How I Calculate Close-to-Retained
-summary: An earlier note argued that standard close rate hides an early-churn problem most operators haven't measured. This is the calculation that surfaces it. Close-to-retained reframes the numerator. Instead of counting signed agreements, you count signed agreements that survive a defined retention window, usually 90 days. The math is one formula. The discipline is making sure the data is clean enough to trust the answer.
+summary: A note from January 2026 argued that standard close rate hides an early-churn problem most operators haven't measured. This is the calculation that surfaces it. Close-to-retained reframes the numerator. Instead of counting signed agreements, you count signed agreements that survive a defined retention window, usually 90 days. The math is one formula. The discipline is making sure the data is clean enough to trust the answer.
 date: 2026-04-15
 tags: [leads-sales, data-reporting]
 pullQuote: The math isn't hard. The data hygiene is.
