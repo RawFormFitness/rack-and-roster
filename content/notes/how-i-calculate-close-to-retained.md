@@ -8,7 +8,7 @@ pullQuote: The math isn't hard. The data hygiene is.
 
 # How I Calculate Close-to-Retained
 
-An earlier note in this publication argued that standard close rate hides an early-churn problem most operators haven't measured. This is the calculation that surfaces it.
+A note from January 2026 argued that standard close rate hides an early-churn problem most operators haven't measured. This is the calculation that surfaces it.
 
 A sales manager in an owner meeting is quoting close rate. 28%. The number lands. Decisions get made about ad spend, rep performance, channel allocation. Nobody in the room knows that the 28% is net of an early-churn problem nobody has measured, and that the real number, the one that describes whether the pipeline is actually producing members who stay, is something different. Probably lower. The conversation happens anyway.
 
