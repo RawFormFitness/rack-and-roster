@@ -1,7 +1,7 @@
 ---
 title: The Psychology of Gym Sales (Part 2 of 2)
 summary: Part 1 was about the lead-to-tour window. This picks up at the tour and follows the prospect through the close, into membership, and out into the long retention window. Three of Cialdini's principles (commitment and consistency, scarcity, and unity) do most of the work in this phase, and most gyms use them in exactly the wrong proportions. Scarcity at every close, commitment and consistency treated as accidents, unity ignored entirely. Their cancellation reports show it.
-date: 2026-04-29
+date: 2025-10-29
 tags: [leads-sales, retention]
 pullQuote: The psychology of yes is not the same as the psychology of stay.
 ---

@@ -1,7 +1,7 @@
 ---
 title: The Psychology of Gym Sales (Part 1 of 2)
 summary: Most gym sales scripts treat the close as the decision point. The prospect walks in, takes the tour, hears the pricing, and decides. That's not how decisions actually get made. Cialdini's seven principles of influence describe the psychology of yes more accurately than any sales script, and four of them (social proof, liking, reciprocity, authority) fire hardest in the window before the prospect ever takes a tour. Most gym sales floors are either ignoring them or using them badly.
-date: 2026-04-22
+date: 2025-10-22
 tags: [leads-sales]
 pullQuote: The pre-tour phase is where the prospect decides whether to like you. Most gym sales scripts assume they'll decide at the close. They've already decided by then.
 ---

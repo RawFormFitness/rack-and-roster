@@ -1,7 +1,7 @@
 ---
 title: The Comp Plan Is Louder Than the Manager
 summary: A gym owner watches their sales rep close hard on every tour and wonders why the cancellation rate is high. The manager has had three conversations with the rep about slowing down, qualifying better, building rapport. Nothing changes. The owner concludes the rep doesn't listen, doesn't care, or isn't a culture fit. The actual answer is that comp plans were written to control payroll, not to shape behavior, and whatever the plan rewards is what the rep will do, regardless of what the manager says.
-date: 2026-04-15
+date: 2025-09-17
 tags: [team, leads-sales]
 pullQuote: A comp plan isn't a payroll formula. It's an instruction set.
 ---
