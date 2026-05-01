@@ -1,6 +1,6 @@
 ---
 title: "First of the Month: Database Forensics"
-summary: Most operators open the May dashboard on the first and start thinking about May. The April book has more decision-relevant information than the May pipeline does on day one, and almost nobody reads it. Three columns turn the closed book into a 90-day forecast that tells you which part of April is going to come back as a churn line in May: lead origination date, promo versus baseline, and the soft close.
+summary: "Most operators open the May dashboard on the first and start thinking about May. The April book has more decision-relevant information than the May pipeline does on day one, and almost nobody reads it. Three columns turn the closed book into a 90-day forecast that tells you which part of April is going to come back as a churn line in May: lead origination date, promo versus baseline, and the soft close."
 date: 2026-05-06
 tags: [data-reporting, retention]
 pullQuote: The April book is more useful than the May pipeline on day one.
